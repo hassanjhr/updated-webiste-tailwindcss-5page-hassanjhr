@@ -1,5 +1,5 @@
-import Digi from "@/app/assets/digi.png"; // Importing the image
-import Link from "next/link";
+import Digi from "@/app/assets/digi.png"; 
+
 
 const Contact = () => {
   return (

@@ -1,4 +1,4 @@
-import Digi from "@/app/assets/digi.png"; // Importing the image
+import Digi from "@/app/assets/digi.png"; 
 
 const Service = () => {
   return (
@@ -32,7 +32,7 @@ const Service = () => {
             <div className="service-card bg-white p-6 rounded-lg shadow-md hover:shadow-lg transform hover:translate-y-2 transition-all">
               <h3 className="text-orange-600 text-2xl font-bold mb-4">SEO (Search Engine Optimization)</h3>
               <p className="text-gray-600 text-base mb-4">
-                Enhance your website's ranking on search engines with advanced SEO techniques.
+                Enhance your website is ranking on search engines with advanced SEO techniques.
               </p>
               <button className="explore-btn bg-orange-600 text-white py-2 px-4 rounded-lg hover:bg-orange-500 transition-all">
                 Explore More

@@ -1,4 +1,4 @@
-import Digi from "@/app/assets/digi.png"; // Importing the image
+import Digi from "@/app/assets/digi.png"; 
 import Link from "next/link";
 
 const About = () => {
@@ -7,7 +7,7 @@ const About = () => {
       <section
         className="About1 bg-cover bg-center bg-no-repeat h-[120vh] flex justify-center items-center text-white"
         style={{
-          backgroundImage: `url(${Digi.src})`, // Adding background image dynamically
+          backgroundImage: `url(${Digi.src})`, 
         }}
       >
         <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
